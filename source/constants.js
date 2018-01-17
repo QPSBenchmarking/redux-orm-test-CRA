@@ -1,0 +1,3 @@
+export const CREATE_MODELA = "CREATE_MODELA";
+export const CREATE_MODELB = "CREATE_MODELB";
+export const CREATE_MODELC = "CREATE_MODELC";
